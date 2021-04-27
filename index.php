@@ -23,7 +23,7 @@
         <div class="container">
           <h1 class="display-4 text-white">Parque de la marimba</h1>
           <p class="lead text-white">Parque ubicado en Tuxtla Gutiérrez, Chiapas.</p>
-          <p class="text-white">Un lugar para disfrutar de un buen baile al ritmo de la marimba</p>
+          <p class="text-white">Un lugar para disfrutar de un buen baile al ritmo de la marimba.</p>
         </div>
       </div>
 
@@ -37,7 +37,7 @@
         <div class="col-12 col-lg-6">
 
           <p class="mt-4">
-            El parque de la marimba es uno de los lugares preferidos de los tuxtlecos y chiapanecos, y con justa razón, 
+            Tuxtla Gutiérrez tiene muchos lugares para conocer, pero el parque de la marimba es uno de los lugares preferidos de los tuxtlecos y chiapanecos, y con justa razón, 
             es un lugar muy bello y agradable, ideal para tomar un descanso o pasear con tu familia y seres queridos.
           </p>
           <p>Es un lugar perfecto para escuchar la tradicional marimba, la música tradicional por excelencia en Chiapas,
@@ -75,6 +75,7 @@
         las melodías que hoy conocemos. 
       </p>
       <p>La marimba se fabrica el árbol de Hormiguillo, el cual se encuentra en los bosques altos de Chiapas.</p>
+      <p>Así que ya sabes, si estas de visita en Tuxtla Gutiérrez no dudes en visitar el parque de la marimba, no te arrepentirás.</p>
     </div>
       
       
