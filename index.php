@@ -75,7 +75,7 @@
         las melodías que hoy conocemos. 
       </p>
       <p>La marimba se fabrica el árbol de Hormiguillo, el cual se encuentra en los bosques altos de Chiapas.</p>
-      <p>Así que ya sabes, si estas de visita en Tuxtla Gutiérrez no dudes en visitar el parque de la marimba, no te arrepentirás.</p>
+      <p>Así que ya sabes, si estas de visita en Tuxtla Gutiérrez no dudes en visitar el parque de la marimba, no te arrepentirás.</p>
     </div>
       
       
