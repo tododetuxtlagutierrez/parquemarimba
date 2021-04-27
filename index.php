@@ -55,7 +55,7 @@
       <p class="mt-4">No debes preocuparte por el horario, ya que está abierto las 24 horas.</p>
       <p>Pero lo mejor empieza en la tarde, más o menos a partir de las 6 de la tarde hasta las 9 de la noche.</p>
       <p>En la tarde noche empiezan a tocar la marimba y las parejas empiezan a sacar sus mejores pasos y disfrutar
-        de un buen baile con su pareja.
+        de un buen baile.
       </p>
 
       <h2 class="mb-4">¿Dónde está el parque de la marimba?</h2>
@@ -71,7 +71,7 @@
       <p>Un africano trajo consigo la marimba y que en San Cristóbal De Las Casas empezaría a darse a conocer
         las melodías de este instrumento.
       </p>
-      <p>Pero es Corazón Borraz quien crear la primera marimba 100% chiapaneca, y con el cual empieza 
+      <p>Pero es Corazón Borraz quien crea la primera marimba 100% chiapaneca, y con el cual empieza 
         las melodías que hoy conocemos. 
       </p>
       <p>La marimba se fabrica el árbol de Hormiguillo, el cual se encuentra en los bosques altos de Chiapas.</p>
