@@ -5,8 +5,17 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>Parque de la marimba en Tuxtla Gutiérrez</title>
-    <meta name="description" content="Toda la información que necesitas saber sobre el parque de la marimba la encuentras aqui. Desde la ubicación, horarios y entre otros datos.">
+    <meta name="description" content="Toda la información que necesitas saber sobre el parque de la marimba la encuentras aquí. Desde la ubicación, horarios y entre otros datos.">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-CS5D7SZ9JQ"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-CS5D7SZ9JQ');
+    </script>
 </head>
 <body>
     <header>
